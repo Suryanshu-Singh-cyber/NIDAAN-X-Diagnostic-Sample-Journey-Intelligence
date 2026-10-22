@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;700;900&family=Barlow:wght@300;400;500&family=Space+Mono:wght@400;700&family=Bebas+Neue&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+     @apply bg-[#030305] text-white font-sans antialiased overflow-x-hidden;
+    /* Hides the default cursor to show our custom one */
+    cursor: none; 
+  }
+}
+
+@layer utilities {
+  .font-bebas { font-family: 'Bebas Neue', cursive; }
+  .font-space { font-family: 'Space Mono', monospace; }
+  .font-barlow { font-family: 'Barlow', sans-serif; }
+  .font-barlow-condensed { font-family: 'Barlow Condensed', sans-serif; }
+
+  /* QuickLive Glitch Effect */
+  .glitch-text {
+    position: relative;
+  }
+  .glitch-text::before,
+  .glitch-text::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  .glitch-text:hover::before {
+    opacity: 0.8;
+    transform: translate(-2px, -2px);
+    color: #00E5A0; /* NIDAAN Green */
+  }
+  .glitch-text:hover::after {
+    opacity: 0.8;
+    transform: translate(2px, 2px);
+    color: #00E5A0;
+    animation: glitch 0.3s;
+  }
+
+  @keyframes glitch {
+    0% { transform: translate(2px, 2px); }
+    50% { transform: translate(-2px, 2px); }
+    100% { transform: translate(2px, 2px); }
+  }
+
+  /* Marquee Animation */
+  .marquee-stripe {
+    display: flex;
+    white-space: nowrap;
+    overflow: hidden;
+    padding: 5px 0;
+  }
+  .marquee-stripe span {
+    display: inline-block;
+    font-family: 'Space Mono', monospace;
+    font-size: 12px;
+    letter-spacing: 4px;
+    color: #888888;
+    animation: marqueeScroll 25s linear infinite;
+    padding-right: 50px;
+  }
+  @keyframes marqueeScroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+
+  /* Hide scrollbar */
+  ::-webkit-scrollbar { width: 8px; }
+  ::-webkit-scrollbar-track { background: #0a0a0a; }
+  ::-webkit-scrollbar-thumb { background: #00E5A0; border-radius: 10px; }
+}

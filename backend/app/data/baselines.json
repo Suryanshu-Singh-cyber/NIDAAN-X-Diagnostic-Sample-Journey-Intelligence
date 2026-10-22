@@ -1,0 +1,17 @@
+{
+  "collection_to_labeling": {"median": 2, "p95": 5, "unit": "minutes"},
+  "labeling_to_dispatch": {"median": 45, "p95": 120, "unit": "minutes"},
+  "dispatch_to_reception": {"median": 90, "p95": 420, "unit": "minutes"},
+  "reception_to_processing": {"median": 40, "p95": 120, "unit": "minutes"},
+  "processing_to_testing": {"median": 30, "p95": 60, "unit": "minutes"},
+  "testing_to_report": {"median": 90, "p95": 240, "unit": "minutes"},
+  "expected_path": [
+    "collection",
+    "labeling",
+    "dispatch",
+    "lab_reception",
+    "processing",
+    "testing",
+    "report_generated"
+  ]
+}

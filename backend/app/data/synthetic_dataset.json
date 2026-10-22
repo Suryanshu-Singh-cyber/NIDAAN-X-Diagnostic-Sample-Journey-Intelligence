@@ -1,0 +1,5449 @@
+{
+  "generated_at": "2026-10-21T19:18:11.718919",
+  "total_specimens": 98,
+  "specimens": [
+    {
+      "specimen_id": "S-2026-1000",
+      "patient_id": "P-10851",
+      "sample_type": "Urine",
+      "test_type": "Biopsy",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1000",
+          "activity": "collection",
+          "location": "OPD-A",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T10:43:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1000",
+          "activity": "labeling",
+          "location": "OPD-B",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T10:44:56.420389",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1000",
+          "activity": "dispatch",
+          "location": "Ward-7",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T11:07:26.420389",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1001",
+      "patient_id": "P-19116",
+      "sample_type": "Blood",
+      "test_type": "Biopsy",
+      "collection_location": "OPD-B",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1001",
+          "activity": "collection",
+          "location": "OPD-B",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T08:39:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1001",
+          "activity": "labeling",
+          "location": "OPD-A",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T08:40:59.297786",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1001",
+          "activity": "dispatch",
+          "location": "ICU",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T09:03:29.297786",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1001",
+          "activity": "lab_reception",
+          "location": "Ward-7",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T09:05:29.297786",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1002",
+      "patient_id": "P-99733",
+      "sample_type": "Tissue",
+      "test_type": "Culture",
+      "collection_location": "OPD-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1002",
+          "activity": "collection",
+          "location": "OPD-B",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T11:38:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1002",
+          "activity": "labeling",
+          "location": "ICU",
+          "operator": "NURSE-06",
+          "timestamp": "2026-09-28T11:39:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1002",
+          "activity": "dispatch",
+          "location": "ICU",
+          "operator": "TECH-03",
+          "timestamp": "2026-09-28T12:52:11.502652",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1002",
+          "activity": "lab_reception",
+          "location": "Ward-7",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T12:57:11.502652",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1002",
+          "activity": "processing",
+          "location": "Ward-3",
+          "operator": "NURSE-06",
+          "timestamp": "2026-09-28T13:00:11.502652",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1002",
+          "activity": "testing",
+          "location": "Emergency",
+          "operator": "TECH-04",
+          "timestamp": "2026-09-28T13:19:12.515631",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1002",
+          "activity": "report_generated",
+          "location": "Ward-7",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T13:25:12.515631",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1003",
+      "patient_id": "P-86622",
+      "sample_type": "Serum",
+      "test_type": "Thyroid",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1003",
+          "activity": "collection",
+          "location": "OPD-A",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T11:30:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1003",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T11:31:45.643379",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1004",
+      "patient_id": "P-24621",
+      "sample_type": "Tissue",
+      "test_type": "Lipid Profile",
+      "collection_location": "OPD-B",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-1004",
+          "activity": "collection",
+          "location": "Ward-3",
+          "operator": "TECH-07",
+          "timestamp": "2026-09-28T08:35:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1004",
+          "activity": "labeling",
+          "location": "OPD-A",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T08:37:23.522785",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1004",
+          "activity": "dispatch",
+          "location": "Ward-7",
+          "operator": "NURSE-06",
+          "timestamp": "2026-09-28T09:28:41.453864",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1004",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T09:36:41.453864",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1005",
+      "patient_id": "P-24662",
+      "sample_type": "Tissue",
+      "test_type": "Culture",
+      "collection_location": "ICU",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1005",
+          "activity": "collection",
+          "location": "Ward-7",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T11:04:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1005",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "NURSE-06",
+          "timestamp": "2026-09-28T11:05:16.417188",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1005",
+          "activity": "dispatch",
+          "location": "Ward-7",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T11:32:30.348046",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1005",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T11:42:30.348046",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1005",
+          "activity": "processing",
+          "location": "ICU",
+          "operator": "NURSE-06",
+          "timestamp": "2026-09-28T11:46:30.348046",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1005",
+          "activity": "testing",
+          "location": "Ward-3",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T12:16:09.750354",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1005",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T12:23:09.750354",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1006",
+      "patient_id": "P-67422",
+      "sample_type": "Plasma",
+      "test_type": "Lipid Profile",
+      "collection_location": "OPD-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1006",
+          "activity": "collection",
+          "location": "OPD-B",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T08:14:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1006",
+          "activity": "labeling",
+          "location": "OPD-A",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T08:17:29.155771",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1007",
+      "patient_id": "P-84847",
+      "sample_type": "Plasma",
+      "test_type": "Lipid Profile",
+      "collection_location": "OPD-B",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-1007",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T08:16:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1007",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T08:17:14.045978",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1007",
+          "activity": "dispatch",
+          "location": "Ward-7",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T08:58:24.402730",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1007",
+          "activity": "lab_reception",
+          "location": "OPD-A",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T09:03:24.402730",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1007",
+          "activity": "processing",
+          "location": "OPD-A",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T09:10:24.402730",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1008",
+      "patient_id": "P-42742",
+      "sample_type": "Blood",
+      "test_type": "Lipid Profile",
+      "collection_location": "Ward-3",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1008",
+          "activity": "collection",
+          "location": "OPD-A",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T08:48:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1008",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T08:49:14.441142",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1008",
+          "activity": "dispatch",
+          "location": "Ward-7",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T09:11:44.441142",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1008",
+          "activity": "lab_reception",
+          "location": "OPD-A",
+          "operator": "TECH-04",
+          "timestamp": "2026-09-28T09:14:44.441142",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1008",
+          "activity": "processing",
+          "location": "OPD-A",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T09:21:44.441142",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1008",
+          "activity": "testing",
+          "location": "OPD-B",
+          "operator": "TECH-05",
+          "timestamp": "2026-09-28T09:58:24.799553",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1008",
+          "activity": "report_generated",
+          "location": "ICU",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T10:02:24.799553",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1009",
+      "patient_id": "P-30289",
+      "sample_type": "Urine",
+      "test_type": "KFT",
+      "collection_location": "OPD-B",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1009",
+          "activity": "collection",
+          "location": "Ward-7",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T08:12:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1009",
+          "activity": "labeling",
+          "location": "OPD-A",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T08:15:44.147093",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1009",
+          "activity": "dispatch",
+          "location": "OPD-B",
+          "operator": "TECH-04",
+          "timestamp": "2026-09-28T09:22:26.414899",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1009",
+          "activity": "lab_reception",
+          "location": "OPD-B",
+          "operator": "TECH-04",
+          "timestamp": "2026-09-28T09:24:26.414899",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1010",
+      "patient_id": "P-64948",
+      "sample_type": "Plasma",
+      "test_type": "Thyroid",
+      "collection_location": "Ward-3",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1010",
+          "activity": "collection",
+          "location": "Ward-3",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T11:08:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1010",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "TECH-07",
+          "timestamp": "2026-09-28T11:09:59.607214",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1010",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-06",
+          "timestamp": "2026-09-28T11:42:07.658800",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1010",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T11:44:07.658800",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1010",
+          "activity": "processing",
+          "location": "OPD-A",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T11:48:07.658800",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1011",
+      "patient_id": "P-55745",
+      "sample_type": "Blood",
+      "test_type": "LFT",
+      "collection_location": "ICU",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1011",
+          "activity": "collection",
+          "location": "Ward-7",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T08:52:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1011",
+          "activity": "labeling",
+          "location": "OPD-B",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T08:53:01.234951",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1011",
+          "activity": "dispatch",
+          "location": "ICU",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T09:15:31.234951",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1011",
+          "activity": "lab_reception",
+          "location": "OPD-A",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T09:22:31.234951",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1011",
+          "activity": "processing",
+          "location": "Ward-3",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T09:31:31.234951",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1011",
+          "activity": "testing",
+          "location": "OPD-A",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T10:15:09.278844",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1011",
+          "activity": "report_generated",
+          "location": "ICU",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T10:25:09.278844",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1012",
+      "patient_id": "P-76244",
+      "sample_type": "Serum",
+      "test_type": "KFT",
+      "collection_location": "OPD-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1012",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T08:40:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1012",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T08:41:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1012",
+          "activity": "dispatch",
+          "location": "Ward-7",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T09:03:30",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1012",
+          "activity": "lab_reception",
+          "location": "OPD-B",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T09:06:30",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1013",
+      "patient_id": "P-86350",
+      "sample_type": "Plasma",
+      "test_type": "LFT",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1013",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T09:48:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1013",
+          "activity": "labeling",
+          "location": "OPD-A",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T09:52:01.433487",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1013",
+          "activity": "dispatch",
+          "location": "ICU",
+          "operator": "NURSE-06",
+          "timestamp": "2026-09-28T10:44:05.298173",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1013",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "TECH-05",
+          "timestamp": "2026-09-28T10:53:05.298173",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1014",
+      "patient_id": "P-60140",
+      "sample_type": "Blood",
+      "test_type": "Culture",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1014",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T09:18:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1014",
+          "activity": "labeling",
+          "location": "OPD-B",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T09:20:49.757390",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1014",
+          "activity": "dispatch",
+          "location": "ICU",
+          "operator": "TECH-05",
+          "timestamp": "2026-09-28T09:50:33.080797",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1014",
+          "activity": "lab_reception",
+          "location": "OPD-B",
+          "operator": "NURSE-06",
+          "timestamp": "2026-09-28T09:54:33.080797",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1014",
+          "activity": "processing",
+          "location": "Emergency",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T09:58:33.080797",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1014",
+          "activity": "testing",
+          "location": "Emergency",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T10:43:11.558343",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1014",
+          "activity": "report_generated",
+          "location": "OPD-B",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T10:49:11.558343",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1015",
+      "patient_id": "P-33405",
+      "sample_type": "Plasma",
+      "test_type": "KFT",
+      "collection_location": "OPD-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1015",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "TECH-03",
+          "timestamp": "2026-09-28T08:51:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1015",
+          "activity": "labeling",
+          "location": "ICU",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T08:55:30",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1015",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T09:49:49.582627",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1015",
+          "activity": "lab_reception",
+          "location": "OPD-A",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T09:55:49.582627",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1016",
+      "patient_id": "P-49363",
+      "sample_type": "Plasma",
+      "test_type": "KFT",
+      "collection_location": "Ward-7",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-1016",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T09:51:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1016",
+          "activity": "labeling",
+          "location": "OPD-A",
+          "operator": "TECH-04",
+          "timestamp": "2026-09-28T09:52:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1016",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T11:19:02.191979",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1016",
+          "activity": "lab_reception",
+          "location": "OPD-A",
+          "operator": "TECH-05",
+          "timestamp": "2026-09-28T11:25:02.191979",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1016",
+          "activity": "processing",
+          "location": "Ward-3",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T11:27:02.191979",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1017",
+      "patient_id": "P-98555",
+      "sample_type": "Urine",
+      "test_type": "Thyroid",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1017",
+          "activity": "collection",
+          "location": "Ward-7",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T09:43:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1017",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T09:45:25.825168",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1017",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "NURSE-06",
+          "timestamp": "2026-09-28T10:50:14.831535",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1017",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T10:56:14.831535",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1017",
+          "activity": "processing",
+          "location": "ICU",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T11:02:14.831535",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1017",
+          "activity": "testing",
+          "location": "Emergency",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T11:52:57.865364",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1017",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T12:01:57.865364",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1018",
+      "patient_id": "P-60328",
+      "sample_type": "Serum",
+      "test_type": "Lipid Profile",
+      "collection_location": "OPD-B",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1018",
+          "activity": "collection",
+          "location": "OPD-A",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T10:48:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1018",
+          "activity": "labeling",
+          "location": "ICU",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T10:49:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1018",
+          "activity": "dispatch",
+          "location": "OPD-B",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T11:28:51.209406",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1018",
+          "activity": "lab_reception",
+          "location": "OPD-B",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T11:33:51.209406",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1019",
+      "patient_id": "P-81810",
+      "sample_type": "Serum",
+      "test_type": "LFT",
+      "collection_location": "Ward-7",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-1019",
+          "activity": "collection",
+          "location": "OPD-A",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T10:56:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1019",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T10:57:47.533594",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1019",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T12:25:11.098746",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1019",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T12:27:11.098746",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1019",
+          "activity": "processing",
+          "location": "Emergency",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T12:30:11.098746",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1020",
+      "patient_id": "P-38043",
+      "sample_type": "Blood",
+      "test_type": "Lipid Profile",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1020",
+          "activity": "collection",
+          "location": "OPD-B",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T09:06:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1020",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T09:08:10.836656",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1020",
+          "activity": "dispatch",
+          "location": "ICU",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T09:30:40.836656",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1020",
+          "activity": "lab_reception",
+          "location": "Ward-7",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T09:33:40.836656",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1020",
+          "activity": "processing",
+          "location": "ICU",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T09:38:40.836656",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1020",
+          "activity": "testing",
+          "location": "OPD-B",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T10:00:45.035848",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1020",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T10:05:45.035848",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1021",
+      "patient_id": "P-67125",
+      "sample_type": "Serum",
+      "test_type": "CBC",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1021",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "TECH-05",
+          "timestamp": "2026-09-28T10:18:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1021",
+          "activity": "labeling",
+          "location": "OPD-A",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T10:21:41.593622",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1021",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T11:25:13.805980",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1021",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T11:33:13.805980",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1022",
+      "patient_id": "P-46471",
+      "sample_type": "Serum",
+      "test_type": "KFT",
+      "collection_location": "OPD-A",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-1022",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "NURSE-06",
+          "timestamp": "2026-09-28T10:53:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1022",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T10:56:48.805331",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1022",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T11:19:18.805331",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1022",
+          "activity": "lab_reception",
+          "location": "Ward-7",
+          "operator": "TECH-05",
+          "timestamp": "2026-09-28T11:22:18.805331",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1023",
+      "patient_id": "P-83920",
+      "sample_type": "Urine",
+      "test_type": "Lipid Profile",
+      "collection_location": "Ward-7",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1023",
+          "activity": "collection",
+          "location": "Ward-3",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T11:11:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1023",
+          "activity": "labeling",
+          "location": "ICU",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T11:13:27.302108",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1023",
+          "activity": "dispatch",
+          "location": "Ward-7",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T11:35:57.302108",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1023",
+          "activity": "lab_reception",
+          "location": "OPD-B",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T11:37:57.302108",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1023",
+          "activity": "processing",
+          "location": "Ward-3",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T11:39:57.302108",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1023",
+          "activity": "testing",
+          "location": "OPD-B",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T11:54:57.302108",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1023",
+          "activity": "report_generated",
+          "location": "Ward-7",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T12:03:57.302108",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1024",
+      "patient_id": "P-99687",
+      "sample_type": "Plasma",
+      "test_type": "Culture",
+      "collection_location": "OPD-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1024",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "NURSE-06",
+          "timestamp": "2026-09-28T11:16:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1024",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T11:17:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1024",
+          "activity": "dispatch",
+          "location": "OPD-B",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T11:39:30",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1025",
+      "patient_id": "P-67091",
+      "sample_type": "Plasma",
+      "test_type": "KFT",
+      "collection_location": "ICU",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1025",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "TECH-03",
+          "timestamp": "2026-09-28T10:16:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1025",
+          "activity": "labeling",
+          "location": "OPD-A",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T10:19:26.227498",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1025",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T11:43:27.509249",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1025",
+          "activity": "lab_reception",
+          "location": "ICU",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T11:51:27.509249",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1026",
+      "patient_id": "P-21221",
+      "sample_type": "Urine",
+      "test_type": "Biopsy",
+      "collection_location": "Emergency",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-1026",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T09:11:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1026",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "TECH-04",
+          "timestamp": "2026-09-28T09:13:00.349844",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1026",
+          "activity": "dispatch",
+          "location": "ICU",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T09:35:30.349844",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1026",
+          "activity": "lab_reception",
+          "location": "ICU",
+          "operator": "NURSE-06",
+          "timestamp": "2026-09-28T09:44:30.349844",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1026",
+          "activity": "processing",
+          "location": "OPD-B",
+          "operator": "TECH-03",
+          "timestamp": "2026-09-28T09:53:30.349844",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1026",
+          "activity": "testing",
+          "location": "Ward-3",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T10:27:33.381741",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1026",
+          "activity": "report_generated",
+          "location": "OPD-A",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T10:37:33.381741",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1027",
+      "patient_id": "P-56112",
+      "sample_type": "Serum",
+      "test_type": "KFT",
+      "collection_location": "ICU",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1027",
+          "activity": "collection",
+          "location": "OPD-B",
+          "operator": "TECH-07",
+          "timestamp": "2026-09-28T10:22:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1027",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "TECH-07",
+          "timestamp": "2026-09-28T10:23:00",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1028",
+      "patient_id": "P-82529",
+      "sample_type": "Tissue",
+      "test_type": "Biopsy",
+      "collection_location": "OPD-B",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-1028",
+          "activity": "collection",
+          "location": "Ward-7",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T08:30:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1028",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "NURSE-06",
+          "timestamp": "2026-09-28T08:31:00.620949",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1028",
+          "activity": "dispatch",
+          "location": "OPD-B",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T10:12:38.895866",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1028",
+          "activity": "lab_reception",
+          "location": "ICU",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T10:21:38.895866",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1029",
+      "patient_id": "P-21164",
+      "sample_type": "Urine",
+      "test_type": "CBC",
+      "collection_location": "Ward-3",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-1029",
+          "activity": "collection",
+          "location": "OPD-A",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T11:43:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1029",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "TECH-07",
+          "timestamp": "2026-09-28T11:45:56.037259",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1029",
+          "activity": "dispatch",
+          "location": "OPD-A",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T12:08:38.923685",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1029",
+          "activity": "lab_reception",
+          "location": "OPD-A",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T12:17:38.923685",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1029",
+          "activity": "processing",
+          "location": "Emergency",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T12:25:38.923685",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1029",
+          "activity": "testing",
+          "location": "Ward-3",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T12:59:08.863717",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1029",
+          "activity": "report_generated",
+          "location": "OPD-B",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T13:03:08.863717",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1030",
+      "patient_id": "P-10350",
+      "sample_type": "Serum",
+      "test_type": "Lipid Profile",
+      "collection_location": "Ward-7",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-1030",
+          "activity": "collection",
+          "location": "Ward-3",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T10:35:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1030",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T10:37:14.154037",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1030",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "TECH-05",
+          "timestamp": "2026-09-28T10:59:44.154037",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1031",
+      "patient_id": "P-17816",
+      "sample_type": "Urine",
+      "test_type": "Culture",
+      "collection_location": "ICU",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1031",
+          "activity": "collection",
+          "location": "OPD-B",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T08:08:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1031",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T08:10:36.879829",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1031",
+          "activity": "dispatch",
+          "location": "Ward-7",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T08:43:36.264893",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1031",
+          "activity": "lab_reception",
+          "location": "Ward-7",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T08:49:36.264893",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1031",
+          "activity": "processing",
+          "location": "OPD-A",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T08:57:36.264893",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1032",
+      "patient_id": "P-32962",
+      "sample_type": "Serum",
+      "test_type": "Thyroid",
+      "collection_location": "Ward-7",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-1032",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T08:31:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1032",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "TECH-07",
+          "timestamp": "2026-09-28T08:32:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1032",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T08:54:30",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1032",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T08:56:30",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1032",
+          "activity": "processing",
+          "location": "OPD-A",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T09:02:30",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1032",
+          "activity": "testing",
+          "location": "Ward-3",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T09:35:27.991634",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1032",
+          "activity": "report_generated",
+          "location": "Ward-3",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T09:41:27.991634",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1033",
+      "patient_id": "P-47777",
+      "sample_type": "Serum",
+      "test_type": "Culture",
+      "collection_location": "Ward-3",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1033",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "NURSE-06",
+          "timestamp": "2026-09-28T11:54:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1033",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "TECH-05",
+          "timestamp": "2026-09-28T11:58:13.626050",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1033",
+          "activity": "dispatch",
+          "location": "OPD-A",
+          "operator": "TECH-07",
+          "timestamp": "2026-09-28T12:20:43.626050",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1034",
+      "patient_id": "P-67424",
+      "sample_type": "Serum",
+      "test_type": "CBC",
+      "collection_location": "OPD-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1034",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T08:22:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1034",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T08:23:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1034",
+          "activity": "dispatch",
+          "location": "Ward-7",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T10:11:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1034",
+          "activity": "lab_reception",
+          "location": "OPD-A",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T10:19:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1034",
+          "activity": "processing",
+          "location": "ICU",
+          "operator": "TECH-07",
+          "timestamp": "2026-09-28T10:29:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1034",
+          "activity": "testing",
+          "location": "OPD-B",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T10:44:00",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1035",
+      "patient_id": "P-41946",
+      "sample_type": "Serum",
+      "test_type": "Thyroid",
+      "collection_location": "OPD-B",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-1035",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T08:40:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1035",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "TECH-05",
+          "timestamp": "2026-09-28T08:41:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1035",
+          "activity": "dispatch",
+          "location": "OPD-A",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T10:29:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1035",
+          "activity": "lab_reception",
+          "location": "Ward-7",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T10:32:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1035",
+          "activity": "processing",
+          "location": "Ward-7",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T10:41:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1035",
+          "activity": "testing",
+          "location": "Ward-3",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T11:35:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1035",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "TECH-07",
+          "timestamp": "2026-09-28T11:43:00",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1036",
+      "patient_id": "P-41300",
+      "sample_type": "Plasma",
+      "test_type": "Lipid Profile",
+      "collection_location": "OPD-B",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-1036",
+          "activity": "collection",
+          "location": "Ward-3",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T08:48:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1036",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T08:50:47.526960",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1037",
+      "patient_id": "P-12011",
+      "sample_type": "Urine",
+      "test_type": "Lipid Profile",
+      "collection_location": "Ward-7",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1037",
+          "activity": "collection",
+          "location": "Ward-7",
+          "operator": "TECH-07",
+          "timestamp": "2026-09-28T09:21:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1037",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "TECH-04",
+          "timestamp": "2026-09-28T09:22:40.121972",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1037",
+          "activity": "dispatch",
+          "location": "Ward-7",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T09:45:10.121972",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1037",
+          "activity": "lab_reception",
+          "location": "OPD-A",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T09:54:10.121972",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1038",
+      "patient_id": "P-93066",
+      "sample_type": "Blood",
+      "test_type": "Lipid Profile",
+      "collection_location": "OPD-B",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1038",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T10:00:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1038",
+          "activity": "labeling",
+          "location": "OPD-A",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T10:01:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1038",
+          "activity": "dispatch",
+          "location": "Ward-7",
+          "operator": "TECH-04",
+          "timestamp": "2026-09-28T10:23:30",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1038",
+          "activity": "lab_reception",
+          "location": "Ward-7",
+          "operator": "TECH-07",
+          "timestamp": "2026-09-28T10:30:30",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1038",
+          "activity": "processing",
+          "location": "OPD-A",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T10:40:30",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1038",
+          "activity": "testing",
+          "location": "ICU",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T11:12:40.597366",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1038",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T11:15:40.597366",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1039",
+      "patient_id": "P-40433",
+      "sample_type": "Serum",
+      "test_type": "Biopsy",
+      "collection_location": "ICU",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-1039",
+          "activity": "collection",
+          "location": "OPD-A",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T11:51:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1039",
+          "activity": "labeling",
+          "location": "ICU",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T11:55:16.060841",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1039",
+          "activity": "dispatch",
+          "location": "OPD-B",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T12:30:29.125952",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1040",
+      "patient_id": "P-85341",
+      "sample_type": "Tissue",
+      "test_type": "Biopsy",
+      "collection_location": "ICU",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1040",
+          "activity": "collection",
+          "location": "OPD-A",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T10:50:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1040",
+          "activity": "labeling",
+          "location": "OPD-B",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T10:53:50.158056",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1040",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "TECH-03",
+          "timestamp": "2026-09-28T11:16:20.158056",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1040",
+          "activity": "lab_reception",
+          "location": "Ward-7",
+          "operator": "TECH-05",
+          "timestamp": "2026-09-28T11:22:20.158056",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1040",
+          "activity": "processing",
+          "location": "Emergency",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T11:28:20.158056",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1040",
+          "activity": "testing",
+          "location": "Emergency",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T12:02:58.395714",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1041",
+      "patient_id": "P-14373",
+      "sample_type": "Plasma",
+      "test_type": "KFT",
+      "collection_location": "Ward-7",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1041",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T09:41:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1041",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T09:44:24.220630",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1041",
+          "activity": "dispatch",
+          "location": "ICU",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T11:21:53.297673",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1041",
+          "activity": "lab_reception",
+          "location": "OPD-B",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T11:28:53.297673",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1041",
+          "activity": "processing",
+          "location": "Ward-7",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T11:34:53.297673",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1041",
+          "activity": "testing",
+          "location": "Ward-7",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T11:51:40.744288",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1041",
+          "activity": "report_generated",
+          "location": "ICU",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T11:53:40.744288",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1042",
+      "patient_id": "P-83048",
+      "sample_type": "Tissue",
+      "test_type": "CBC",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1042",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T08:23:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1042",
+          "activity": "labeling",
+          "location": "OPD-B",
+          "operator": "TECH-03",
+          "timestamp": "2026-09-28T08:24:59.114648",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1042",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T08:47:29.114648",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1043",
+      "patient_id": "P-95097",
+      "sample_type": "Serum",
+      "test_type": "CBC",
+      "collection_location": "OPD-B",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1043",
+          "activity": "collection",
+          "location": "OPD-A",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T10:17:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1043",
+          "activity": "labeling",
+          "location": "ICU",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T10:18:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1043",
+          "activity": "dispatch",
+          "location": "ICU",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T10:40:30",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1043",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T10:45:30",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1044",
+      "patient_id": "P-68287",
+      "sample_type": "Urine",
+      "test_type": "Culture",
+      "collection_location": "ICU",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1044",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T09:17:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1044",
+          "activity": "labeling",
+          "location": "OPD-B",
+          "operator": "TECH-04",
+          "timestamp": "2026-09-28T09:21:30",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1044",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "TECH-03",
+          "timestamp": "2026-09-28T10:51:25.656428",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1044",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "NURSE-05",
+          "timestamp": "2026-09-28T11:01:25.656428",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1044",
+          "activity": "processing",
+          "location": "Ward-7",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T11:09:25.656428",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1044",
+          "activity": "testing",
+          "location": "ICU",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T11:49:50.396618",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1044",
+          "activity": "report_generated",
+          "location": "OPD-B",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T11:56:50.396618",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-1045",
+      "patient_id": "P-86858",
+      "sample_type": "Urine",
+      "test_type": "Culture",
+      "collection_location": "OPD-B",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1045",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "TECH-03",
+          "timestamp": "2026-09-28T09:27:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1045",
+          "activity": "labeling",
+          "location": "OPD-A",
+          "operator": "TECH-04",
+          "timestamp": "2026-09-28T09:28:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1045",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T09:57:03.322704",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1045",
+          "activity": "lab_reception",
+          "location": "Ward-7",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T10:02:03.322704",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1045",
+          "activity": "testing",
+          "location": "OPD-B",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T10:58:03.322704",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1045",
+          "activity": "report_generated",
+          "location": "Ward-3",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T11:01:03.322704",
+          "scan_type": "qr"
+        }
+      ],
+      "injected_anomaly": "missing_handoff"
+    },
+    {
+      "specimen_id": "S-2026-1046",
+      "patient_id": "P-72422",
+      "sample_type": "Serum",
+      "test_type": "Culture",
+      "collection_location": "ICU",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1046",
+          "activity": "collection",
+          "location": "OPD-B",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T09:39:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1046",
+          "activity": "labeling",
+          "location": "OPD-B",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T09:40:15.852032",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1046",
+          "activity": "dispatch",
+          "location": "OPD-B",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T11:28:15.852032",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1046",
+          "activity": "lab_reception",
+          "location": "OPD-B",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T11:30:15.852032",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1046",
+          "activity": "processing",
+          "location": "OPD-B",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T11:37:15.852032",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1046",
+          "activity": "testing",
+          "location": "OPD-B",
+          "operator": "TECH-05",
+          "timestamp": "2026-09-28T18:18:59.192512",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1046",
+          "activity": "report_generated",
+          "location": "OPD-A",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T12:28:59.192512",
+          "scan_type": "qr"
+        }
+      ],
+      "injected_anomaly": "stuck"
+    },
+    {
+      "specimen_id": "S-2026-1047",
+      "patient_id": "P-19632",
+      "sample_type": "Blood",
+      "test_type": "KFT",
+      "collection_location": "Ward-3",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1047",
+          "activity": "collection",
+          "location": "Ward-3",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T08:57:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1047",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T08:59:06.996952",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1047",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T08:59:36.996952",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1047",
+          "activity": "dispatch",
+          "location": "Ward-7",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T09:32:25.397674",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1047",
+          "activity": "lab_reception",
+          "location": "Ward-7",
+          "operator": "NURSE-01",
+          "timestamp": "2026-09-28T09:41:25.397674",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1047",
+          "activity": "testing",
+          "location": "Emergency",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T09:58:25.397674",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1047",
+          "activity": "report_generated",
+          "location": "Ward-7",
+          "operator": "TECH-06",
+          "timestamp": "2026-09-28T10:07:25.397674",
+          "scan_type": "qr"
+        }
+      ],
+      "injected_anomaly": "missing_handoff"
+    },
+    {
+      "specimen_id": "S-2026-1048",
+      "patient_id": "P-64239",
+      "sample_type": "Tissue",
+      "test_type": "Culture",
+      "collection_location": "Emergency",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-1048",
+          "activity": "collection",
+          "location": "OPD-B",
+          "operator": "NURSE-09",
+          "timestamp": "2026-09-28T08:08:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1048",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "TECH-02",
+          "timestamp": "2026-09-28T08:09:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1048",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "TECH-01",
+          "timestamp": "2026-09-28T08:31:30",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1048",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "TECH-05",
+          "timestamp": "2026-09-28T13:40:30",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1048",
+          "activity": "processing",
+          "location": "Ward-7",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T13:43:30",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1048",
+          "activity": "testing",
+          "location": "Ward-3",
+          "operator": "NURSE-07",
+          "timestamp": "2026-09-28T14:26:35.912725",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1048",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "NURSE-08",
+          "timestamp": "2026-09-28T14:34:35.912725",
+          "scan_type": "qr"
+        }
+      ],
+      "injected_anomaly": "delayed"
+    },
+    {
+      "specimen_id": "S-2026-1049",
+      "patient_id": "P-86869",
+      "sample_type": "Plasma",
+      "test_type": "Thyroid",
+      "collection_location": "ICU",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-1049",
+          "activity": "collection",
+          "location": "Ward-7",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T08:53:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1049",
+          "activity": "labeling",
+          "location": "ICU",
+          "operator": "TECH-05",
+          "timestamp": "2026-09-28T08:54:00",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1049",
+          "activity": "dispatch",
+          "location": "OPD-B",
+          "operator": "TECH-07",
+          "timestamp": "2026-09-28T09:27:59.259627",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1049",
+          "activity": "lab_reception",
+          "location": "OPD-A",
+          "operator": "NURSE-03",
+          "timestamp": "2026-09-28T09:30:59.259627",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1049",
+          "activity": "processing",
+          "location": "Emergency",
+          "operator": "NURSE-04",
+          "timestamp": "2026-09-28T09:33:59.259627",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1049",
+          "activity": "testing",
+          "location": "Ward-7",
+          "operator": "TECH-03",
+          "timestamp": "2026-09-28T16:14:37.059787",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-1049",
+          "activity": "report_generated",
+          "location": "Ward-3",
+          "operator": "NURSE-02",
+          "timestamp": "2026-09-28T10:18:37.059787",
+          "scan_type": "qr"
+        }
+      ],
+      "injected_anomaly": "stuck"
+    },
+    {
+      "specimen_id": "S-REAL-100",
+      "patient_id": "P-55870",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "Ward-3",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-100",
+          "activity": "collection",
+          "location": "Ward-3",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T08:34:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-100",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T09:58:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-100",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T11:03:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-100",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T11:34:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-100",
+          "activity": "testing",
+          "location": "Ward-3",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T12:51:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-100",
+          "activity": "report_generated",
+          "location": "Ward-3",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T13:53:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-101",
+      "patient_id": "P-39389",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "OPD-1",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-101",
+          "activity": "collection",
+          "location": "OPD-1",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T08:26:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-101",
+          "activity": "labeling",
+          "location": "OPD-1",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T08:54:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-101",
+          "activity": "dispatch",
+          "location": "OPD-1",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T09:11:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-101",
+          "activity": "lab_reception",
+          "location": "OPD-1",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T09:27:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-101",
+          "activity": "processing",
+          "location": "OPD-1",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T10:12:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-101",
+          "activity": "testing",
+          "location": "OPD-1",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T10:37:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-101",
+          "activity": "report_generated",
+          "location": "OPD-1",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T11:47:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-102",
+      "patient_id": "P-95215",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "ICU-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-102",
+          "activity": "collection",
+          "location": "ICU-A",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T08:14:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-102",
+          "activity": "labeling",
+          "location": "ICU-A",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T09:06:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-102",
+          "activity": "dispatch",
+          "location": "ICU-A",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T09:38:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-102",
+          "activity": "lab_reception",
+          "location": "ICU-A",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T10:44:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-102",
+          "activity": "processing",
+          "location": "ICU-A",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T12:00:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-102",
+          "activity": "testing",
+          "location": "ICU-A",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T12:19:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-102",
+          "activity": "report_generated",
+          "location": "ICU-A",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T12:36:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-103",
+      "patient_id": "P-18993",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "ICU-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-103",
+          "activity": "collection",
+          "location": "ICU-A",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T09:02:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-103",
+          "activity": "labeling",
+          "location": "ICU-A",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T10:29:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-103",
+          "activity": "dispatch",
+          "location": "ICU-A",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T11:17:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-103",
+          "activity": "lab_reception",
+          "location": "ICU-A",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T12:14:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-103",
+          "activity": "processing",
+          "location": "ICU-A",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T12:41:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-103",
+          "activity": "testing",
+          "location": "ICU-A",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T13:09:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-103",
+          "activity": "report_generated",
+          "location": "ICU-A",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T14:32:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-104",
+      "patient_id": "P-95426",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "OT-2",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-104",
+          "activity": "collection",
+          "location": "OT-2",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T09:09:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-104",
+          "activity": "labeling",
+          "location": "OT-2",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T10:34:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-104",
+          "activity": "dispatch",
+          "location": "OT-2",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T11:26:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-104",
+          "activity": "lab_reception",
+          "location": "OT-2",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T12:05:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-104",
+          "activity": "testing",
+          "location": "OT-2",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T12:31:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-104",
+          "activity": "report_generated",
+          "location": "OT-2",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T13:08:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-105",
+      "patient_id": "P-15276",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "Ward-3",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-105",
+          "activity": "collection",
+          "location": "Ward-3",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T09:42:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-105",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T10:41:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-105",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T11:31:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-105",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T11:52:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-105",
+          "activity": "processing",
+          "location": "Ward-3",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T13:11:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-105",
+          "activity": "testing",
+          "location": "Ward-3",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T14:19:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-105",
+          "activity": "report_generated",
+          "location": "Ward-3",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T15:41:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-106",
+      "patient_id": "P-14067",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "OT-2",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-106",
+          "activity": "collection",
+          "location": "OT-2",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T08:05:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-106",
+          "activity": "labeling",
+          "location": "OT-2",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T08:36:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-106",
+          "activity": "dispatch",
+          "location": "OT-2",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T09:31:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-106",
+          "activity": "lab_reception",
+          "location": "OT-2",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T10:15:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-106",
+          "activity": "processing",
+          "location": "OT-2",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T11:21:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-106",
+          "activity": "testing",
+          "location": "OT-2",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T12:44:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-106",
+          "activity": "report_generated",
+          "location": "OT-2",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T13:13:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-107",
+      "patient_id": "P-42411",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-107",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T09:49:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-107",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T10:23:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-107",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T11:36:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-107",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T11:54:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-107",
+          "activity": "processing",
+          "location": "Emergency",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T13:16:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-107",
+          "activity": "testing",
+          "location": "Emergency",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T13:49:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-107",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T14:31:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-108",
+      "patient_id": "P-36130",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "Ward-3",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-108",
+          "activity": "collection",
+          "location": "Ward-3",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T09:48:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-108",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T11:09:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-108",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T11:49:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-108",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T13:15:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-108",
+          "activity": "testing",
+          "location": "Ward-3",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T14:37:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-108",
+          "activity": "report_generated",
+          "location": "Ward-3",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T15:06:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-109",
+      "patient_id": "P-12671",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "ICU-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-109",
+          "activity": "collection",
+          "location": "ICU-A",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T08:26:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-109",
+          "activity": "labeling",
+          "location": "ICU-A",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T09:22:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-109",
+          "activity": "dispatch",
+          "location": "ICU-A",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T10:16:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-109",
+          "activity": "lab_reception",
+          "location": "ICU-A",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T10:49:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-109",
+          "activity": "processing",
+          "location": "ICU-A",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T12:18:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-109",
+          "activity": "testing",
+          "location": "ICU-A",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T12:49:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-109",
+          "activity": "report_generated",
+          "location": "ICU-A",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T13:48:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-110",
+      "patient_id": "P-91439",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-110",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T08:54:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-110",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T09:16:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-110",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T10:19:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-110",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T11:47:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-110",
+          "activity": "processing",
+          "location": "Emergency",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T13:05:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-110",
+          "activity": "testing",
+          "location": "Emergency",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T14:11:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-110",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T15:33:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-111",
+      "patient_id": "P-29973",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "OT-2",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-111",
+          "activity": "collection",
+          "location": "OT-2",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T08:56:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-111",
+          "activity": "labeling",
+          "location": "OT-2",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T09:26:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-111",
+          "activity": "dispatch",
+          "location": "OT-2",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T10:03:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-111",
+          "activity": "lab_reception",
+          "location": "OT-2",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T10:35:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-111",
+          "activity": "processing",
+          "location": "OT-2",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T11:56:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-111",
+          "activity": "testing",
+          "location": "OT-2",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T13:22:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-111",
+          "activity": "report_generated",
+          "location": "OT-2",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T13:49:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-112",
+      "patient_id": "P-41266",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-112",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T08:56:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-112",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T10:20:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-112",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T10:42:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-112",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T11:35:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-112",
+          "activity": "testing",
+          "location": "Emergency",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T11:56:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-112",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T12:20:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-113",
+      "patient_id": "P-26544",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "ICU-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-113",
+          "activity": "collection",
+          "location": "ICU-A",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T09:12:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-113",
+          "activity": "labeling",
+          "location": "ICU-A",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T10:13:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-113",
+          "activity": "dispatch",
+          "location": "ICU-A",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T11:00:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-113",
+          "activity": "lab_reception",
+          "location": "ICU-A",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T12:29:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-113",
+          "activity": "processing",
+          "location": "ICU-A",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T12:50:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-113",
+          "activity": "testing",
+          "location": "ICU-A",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T13:37:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-113",
+          "activity": "report_generated",
+          "location": "ICU-A",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T13:55:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-114",
+      "patient_id": "P-72070",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "OT-2",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-114",
+          "activity": "collection",
+          "location": "OT-2",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T08:33:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-114",
+          "activity": "labeling",
+          "location": "OT-2",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T09:22:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-114",
+          "activity": "dispatch",
+          "location": "OT-2",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T09:46:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-114",
+          "activity": "lab_reception",
+          "location": "OT-2",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T11:00:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-114",
+          "activity": "processing",
+          "location": "OT-2",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T12:12:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-114",
+          "activity": "testing",
+          "location": "OT-2",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T13:25:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-114",
+          "activity": "report_generated",
+          "location": "OT-2",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T13:54:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-115",
+      "patient_id": "P-97747",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "Ward-3",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-115",
+          "activity": "collection",
+          "location": "Ward-3",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T09:13:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-115",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T10:22:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-115",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T11:34:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-115",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T12:24:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-115",
+          "activity": "processing",
+          "location": "Ward-3",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T12:59:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-115",
+          "activity": "testing",
+          "location": "Ward-3",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T14:00:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-115",
+          "activity": "report_generated",
+          "location": "Ward-3",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T14:38:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-116",
+      "patient_id": "P-24993",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "ICU-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-116",
+          "activity": "collection",
+          "location": "ICU-A",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T09:04:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-116",
+          "activity": "labeling",
+          "location": "ICU-A",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T10:26:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-116",
+          "activity": "dispatch",
+          "location": "ICU-A",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T11:33:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-116",
+          "activity": "lab_reception",
+          "location": "ICU-A",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T12:17:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-116",
+          "activity": "testing",
+          "location": "ICU-A",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T12:57:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-116",
+          "activity": "report_generated",
+          "location": "ICU-A",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T13:58:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-117",
+      "patient_id": "P-83920",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "Ward-3",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-117",
+          "activity": "collection",
+          "location": "Ward-3",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T08:27:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-117",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T08:48:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-117",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T09:51:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-117",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T10:11:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-117",
+          "activity": "processing",
+          "location": "Ward-3",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T11:02:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-117",
+          "activity": "testing",
+          "location": "Ward-3",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T11:18:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-117",
+          "activity": "report_generated",
+          "location": "Ward-3",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T12:19:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-118",
+      "patient_id": "P-38569",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-118",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T08:44:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-118",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T09:11:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-118",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T10:33:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-118",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T11:29:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-118",
+          "activity": "processing",
+          "location": "Emergency",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T12:33:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-118",
+          "activity": "testing",
+          "location": "Emergency",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T13:41:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-118",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T14:10:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-119",
+      "patient_id": "P-70952",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "OT-2",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-119",
+          "activity": "collection",
+          "location": "OT-2",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T09:18:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-119",
+          "activity": "labeling",
+          "location": "OT-2",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T10:03:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-119",
+          "activity": "dispatch",
+          "location": "OT-2",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T11:33:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-119",
+          "activity": "lab_reception",
+          "location": "OT-2",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T12:17:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-119",
+          "activity": "processing",
+          "location": "OT-2",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T12:50:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-119",
+          "activity": "testing",
+          "location": "OT-2",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T14:16:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-119",
+          "activity": "report_generated",
+          "location": "OT-2",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T14:50:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-120",
+      "patient_id": "P-43586",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-120",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T09:05:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-120",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T10:09:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-120",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T11:11:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-120",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T12:37:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-120",
+          "activity": "testing",
+          "location": "Emergency",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T14:01:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-120",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T15:24:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-121",
+      "patient_id": "P-58351",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-121",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T09:17:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-121",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T09:38:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-121",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T10:53:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-121",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T11:19:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-121",
+          "activity": "processing",
+          "location": "Emergency",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T11:56:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-121",
+          "activity": "testing",
+          "location": "Emergency",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T12:30:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-121",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T12:51:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-122",
+      "patient_id": "P-31992",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "ICU-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-122",
+          "activity": "collection",
+          "location": "ICU-A",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T09:36:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-122",
+          "activity": "labeling",
+          "location": "ICU-A",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T11:01:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-122",
+          "activity": "dispatch",
+          "location": "ICU-A",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T11:18:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-122",
+          "activity": "lab_reception",
+          "location": "ICU-A",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T11:40:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-122",
+          "activity": "processing",
+          "location": "ICU-A",
+          "operator": "NURSE-3",
+          "timestamp": "2026-10-21T13:06:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-122",
+          "activity": "testing",
+          "location": "ICU-A",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T14:26:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-122",
+          "activity": "report_generated",
+          "location": "ICU-A",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T15:09:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-123",
+      "patient_id": "P-89415",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "OT-2",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-123",
+          "activity": "collection",
+          "location": "OT-2",
+          "operator": "NURSE-2",
+          "timestamp": "2026-10-21T09:15:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-123",
+          "activity": "labeling",
+          "location": "OT-2",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T10:15:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-123",
+          "activity": "dispatch",
+          "location": "OT-2",
+          "operator": "NURSE-5",
+          "timestamp": "2026-10-21T10:50:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-123",
+          "activity": "lab_reception",
+          "location": "OT-2",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T12:16:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-123",
+          "activity": "processing",
+          "location": "OT-2",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T12:54:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-123",
+          "activity": "testing",
+          "location": "OT-2",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T13:27:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-123",
+          "activity": "report_generated",
+          "location": "OT-2",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T13:42:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-124",
+      "patient_id": "P-89593",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "Ward-3",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-124",
+          "activity": "collection",
+          "location": "Ward-3",
+          "operator": "NURSE-4",
+          "timestamp": "2026-10-21T08:38:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-124",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "NURSE-1",
+          "timestamp": "2026-10-21T09:12:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-124",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-6",
+          "timestamp": "2026-10-21T10:28:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-124",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "NURSE-7",
+          "timestamp": "2026-10-21T11:30:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-124",
+          "activity": "testing",
+          "location": "Ward-3",
+          "operator": "NURSE-8",
+          "timestamp": "2026-10-21T12:55:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-124",
+          "activity": "report_generated",
+          "location": "Ward-3",
+          "operator": "NURSE-9",
+          "timestamp": "2026-10-21T13:41:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-2026-7238",
+      "patient_id": "P-10851",
+      "sample_type": "Urine",
+      "test_type": "Biopsy",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-7238",
+          "activity": "collection",
+          "location": "OPD-B",
+          "operator": "NURSE-08",
+          "timestamp": "2026-10-21T23:09:11.302632",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7238",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "NURSE-03",
+          "timestamp": "2026-10-21T23:11:38.075339",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7238",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "TECH-05",
+          "timestamp": "2026-10-22T00:10:02.375527",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7238",
+          "activity": "lab_reception",
+          "location": "OPD-A",
+          "operator": "NURSE-03",
+          "timestamp": "2026-10-22T00:12:02.375527",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7238",
+          "activity": "processing",
+          "location": "OPD-B",
+          "operator": "NURSE-01",
+          "timestamp": "2026-10-22T00:17:02.375527",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7238",
+          "activity": "testing",
+          "location": "Ward-7",
+          "operator": "TECH-05",
+          "timestamp": "2026-10-22T06:32:02.375527",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7238",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "NURSE-09",
+          "timestamp": "2026-10-22T00:37:02.375527",
+          "scan_type": "qr"
+        }
+      ],
+      "injected_anomaly": "stuck"
+    },
+    {
+      "specimen_id": "S-2026-4276",
+      "patient_id": "P-16006",
+      "sample_type": "Urine",
+      "test_type": "Culture",
+      "collection_location": "ICU",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-4276",
+          "activity": "collection",
+          "location": "OPD-A",
+          "operator": "NURSE-03",
+          "timestamp": "2026-10-21T22:27:14.244331",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4276",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "NURSE-04",
+          "timestamp": "2026-10-21T22:28:20.637080",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4276",
+          "activity": "dispatch",
+          "location": "ICU",
+          "operator": "NURSE-02",
+          "timestamp": "2026-10-21T22:51:34.014930",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4276",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "NURSE-04",
+          "timestamp": "2026-10-21T23:00:34.014930",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4276",
+          "activity": "processing",
+          "location": "OPD-A",
+          "operator": "TECH-01",
+          "timestamp": "2026-10-21T23:08:34.014930",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4276",
+          "activity": "testing",
+          "location": "Ward-7",
+          "operator": "TECH-03",
+          "timestamp": "2026-10-22T05:49:14.102348",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4276",
+          "activity": "report_generated",
+          "location": "Ward-7",
+          "operator": "NURSE-03",
+          "timestamp": "2026-10-21T23:54:14.102348",
+          "scan_type": "qr"
+        }
+      ],
+      "injected_anomaly": "stuck"
+    },
+    {
+      "specimen_id": "S-2026-9006",
+      "patient_id": "P-14207",
+      "sample_type": "Tissue",
+      "test_type": "Lipid Profile",
+      "collection_location": "ICU",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-9006",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "NURSE-09",
+          "timestamp": "2026-10-21T22:07:14.473216",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9006",
+          "activity": "labeling",
+          "location": "OPD-B",
+          "operator": "TECH-03",
+          "timestamp": "2026-10-21T22:08:14.473216",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9006",
+          "activity": "dispatch",
+          "location": "ICU",
+          "operator": "NURSE-07",
+          "timestamp": "2026-10-21T23:13:45.173733",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9006",
+          "activity": "lab_reception",
+          "location": "Ward-7",
+          "operator": "NURSE-03",
+          "timestamp": "2026-10-21T23:19:45.173733",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-3741",
+      "patient_id": "P-30033",
+      "sample_type": "Urine",
+      "test_type": "Culture",
+      "collection_location": "Ward-7",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-3741",
+          "activity": "collection",
+          "location": "Ward-7",
+          "operator": "TECH-06",
+          "timestamp": "2026-10-21T20:59:14.992223",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3741",
+          "activity": "labeling",
+          "location": "OPD-B",
+          "operator": "NURSE-09",
+          "timestamp": "2026-10-21T21:02:30.215784",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3741",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-09",
+          "timestamp": "2026-10-21T22:27:07.817306",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3741",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "TECH-04",
+          "timestamp": "2026-10-21T22:35:07.817306",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3741",
+          "activity": "processing",
+          "location": "OPD-B",
+          "operator": "NURSE-05",
+          "timestamp": "2026-10-21T22:42:07.817306",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3741",
+          "activity": "testing",
+          "location": "Ward-3",
+          "operator": "TECH-07",
+          "timestamp": "2026-10-21T23:31:12.006265",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3741",
+          "activity": "report_generated",
+          "location": "OPD-A",
+          "operator": "NURSE-04",
+          "timestamp": "2026-10-21T23:34:12.006265",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-5152",
+      "patient_id": "P-91959",
+      "sample_type": "Tissue",
+      "test_type": "Culture",
+      "collection_location": "Ward-7",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-5152",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "NURSE-09",
+          "timestamp": "2026-10-21T21:29:15.168986",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-5152",
+          "activity": "labeling",
+          "location": "OPD-A",
+          "operator": "NURSE-04",
+          "timestamp": "2026-10-21T21:33:45.168986",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-5152",
+          "activity": "dispatch",
+          "location": "Ward-7",
+          "operator": "NURSE-09",
+          "timestamp": "2026-10-21T22:05:17.697220",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-6418",
+      "patient_id": "P-82063",
+      "sample_type": "Urine",
+      "test_type": "KFT",
+      "collection_location": "Ward-3",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-6418",
+          "activity": "collection",
+          "location": "Ward-3",
+          "operator": "TECH-02",
+          "timestamp": "2026-10-21T20:51:15.349017",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-6418",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "NURSE-01",
+          "timestamp": "2026-10-21T20:53:18.285640",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-6418",
+          "activity": "dispatch",
+          "location": "ICU",
+          "operator": "NURSE-08",
+          "timestamp": "2026-10-21T22:05:28.623043",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-6418",
+          "activity": "lab_reception",
+          "location": "OPD-B",
+          "operator": "NURSE-03",
+          "timestamp": "2026-10-21T22:07:28.623043",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-6418",
+          "activity": "processing",
+          "location": "Ward-7",
+          "operator": "TECH-07",
+          "timestamp": "2026-10-21T22:10:28.623043",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-6418",
+          "activity": "testing",
+          "location": "OPD-A",
+          "operator": "NURSE-05",
+          "timestamp": "2026-10-21T22:49:41.133487",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-6418",
+          "activity": "report_generated",
+          "location": "Ward-7",
+          "operator": "TECH-07",
+          "timestamp": "2026-10-21T22:53:41.133487",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-9609",
+      "patient_id": "P-40007",
+      "sample_type": "Blood",
+      "test_type": "CBC",
+      "collection_location": "ICU",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-9609",
+          "activity": "collection",
+          "location": "Ward-7",
+          "operator": "NURSE-07",
+          "timestamp": "2026-10-21T20:48:15.522659",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9609",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "TECH-03",
+          "timestamp": "2026-10-21T20:49:54.570462",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9609",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "TECH-06",
+          "timestamp": "2026-10-21T21:12:24.570462",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9609",
+          "activity": "lab_reception",
+          "location": "OPD-B",
+          "operator": "NURSE-08",
+          "timestamp": "2026-10-21T21:15:24.570462",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9609",
+          "activity": "processing",
+          "location": "ICU",
+          "operator": "NURSE-01",
+          "timestamp": "2026-10-21T21:18:24.570462",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9609",
+          "activity": "testing",
+          "location": "OPD-B",
+          "operator": "NURSE-01",
+          "timestamp": "2026-10-21T21:39:11.334339",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9609",
+          "activity": "report_generated",
+          "location": "Ward-7",
+          "operator": "NURSE-02",
+          "timestamp": "2026-10-21T21:42:11.334339",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-4281",
+      "patient_id": "P-24322",
+      "sample_type": "Urine",
+      "test_type": "LFT",
+      "collection_location": "OPD-B",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-4281",
+          "activity": "collection",
+          "location": "Ward-7",
+          "operator": "TECH-07",
+          "timestamp": "2026-10-21T21:02:15.701305",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4281",
+          "activity": "labeling",
+          "location": "OPD-B",
+          "operator": "TECH-07",
+          "timestamp": "2026-10-21T21:03:41.411057",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4281",
+          "activity": "dispatch",
+          "location": "OPD-A",
+          "operator": "TECH-05",
+          "timestamp": "2026-10-21T21:57:18.314345",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4281",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "TECH-05",
+          "timestamp": "2026-10-21T22:04:18.314345",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4281",
+          "activity": "testing",
+          "location": "Ward-7",
+          "operator": "NURSE-04",
+          "timestamp": "2026-10-21T22:34:11.105184",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4281",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "TECH-02",
+          "timestamp": "2026-10-21T22:36:11.105184",
+          "scan_type": "qr"
+        }
+      ],
+      "injected_anomaly": "missing_handoff"
+    },
+    {
+      "specimen_id": "S-2026-3148",
+      "patient_id": "P-44760",
+      "sample_type": "Serum",
+      "test_type": "KFT",
+      "collection_location": "Emergency",
+      "priority": "urgent",
+      "events": [
+        {
+          "specimen_id": "S-2026-3148",
+          "activity": "collection",
+          "location": "OPD-B",
+          "operator": "NURSE-03",
+          "timestamp": "2026-10-21T21:18:15.877610",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3148",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "NURSE-04",
+          "timestamp": "2026-10-21T21:19:15.877610",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3148",
+          "activity": "dispatch",
+          "location": "OPD-A",
+          "operator": "NURSE-01",
+          "timestamp": "2026-10-21T22:30:20.266456",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3148",
+          "activity": "lab_reception",
+          "location": "OPD-B",
+          "operator": "NURSE-06",
+          "timestamp": "2026-10-21T22:33:20.266456",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3148",
+          "activity": "processing",
+          "location": "Emergency",
+          "operator": "TECH-07",
+          "timestamp": "2026-10-21T22:41:20.266456",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3148",
+          "activity": "testing",
+          "location": "OPD-A",
+          "operator": "NURSE-06",
+          "timestamp": "2026-10-22T05:14:46.039477",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3148",
+          "activity": "report_generated",
+          "location": "OPD-A",
+          "operator": "TECH-04",
+          "timestamp": "2026-10-21T23:22:46.039477",
+          "scan_type": "qr"
+        }
+      ],
+      "injected_anomaly": "stuck"
+    },
+    {
+      "specimen_id": "S-2026-3268",
+      "patient_id": "P-85880",
+      "sample_type": "Plasma",
+      "test_type": "CBC",
+      "collection_location": "Ward-3",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-3268",
+          "activity": "collection",
+          "location": "OPD-A",
+          "operator": "NURSE-02",
+          "timestamp": "2026-10-21T22:18:16.080692",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3268",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "TECH-02",
+          "timestamp": "2026-10-21T22:21:44.850405",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3268",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-06",
+          "timestamp": "2026-10-21T23:53:15.351468",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-3268",
+          "activity": "lab_reception",
+          "location": "Ward-3",
+          "operator": "NURSE-03",
+          "timestamp": "2026-10-21T23:55:15.351468",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-9657",
+      "patient_id": "P-30676",
+      "sample_type": "Serum",
+      "test_type": "Culture",
+      "collection_location": "Ward-3",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-9657",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "NURSE-08",
+          "timestamp": "2026-10-21T22:00:16.235494",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9657",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "TECH-01",
+          "timestamp": "2026-10-21T22:02:11.566165",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9657",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "TECH-02",
+          "timestamp": "2026-10-21T23:06:57.579796",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9657",
+          "activity": "lab_reception",
+          "location": "OPD-A",
+          "operator": "TECH-06",
+          "timestamp": "2026-10-22T04:09:57.579796",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9657",
+          "activity": "processing",
+          "location": "OPD-A",
+          "operator": "NURSE-07",
+          "timestamp": "2026-10-22T04:12:57.579796",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9657",
+          "activity": "testing",
+          "location": "ICU",
+          "operator": "NURSE-03",
+          "timestamp": "2026-10-22T04:34:58.131389",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9657",
+          "activity": "report_generated",
+          "location": "ICU",
+          "operator": "TECH-01",
+          "timestamp": "2026-10-22T04:39:58.131389",
+          "scan_type": "qr"
+        }
+      ],
+      "injected_anomaly": "delayed"
+    },
+    {
+      "specimen_id": "S-2026-7010",
+      "patient_id": "P-93136",
+      "sample_type": "Serum",
+      "test_type": "Culture",
+      "collection_location": "ICU",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-7010",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "NURSE-04",
+          "timestamp": "2026-10-21T20:51:16.394880",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7010",
+          "activity": "labeling",
+          "location": "OPD-B",
+          "operator": "NURSE-09",
+          "timestamp": "2026-10-21T20:53:14.621329",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7010",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-05",
+          "timestamp": "2026-10-21T21:51:35.800184",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7010",
+          "activity": "lab_reception",
+          "location": "ICU",
+          "operator": "NURSE-07",
+          "timestamp": "2026-10-22T02:57:35.800184",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7010",
+          "activity": "processing",
+          "location": "OPD-B",
+          "operator": "NURSE-09",
+          "timestamp": "2026-10-22T03:04:35.800184",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7010",
+          "activity": "testing",
+          "location": "Ward-3",
+          "operator": "TECH-07",
+          "timestamp": "2026-10-22T03:39:19.871567",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7010",
+          "activity": "report_generated",
+          "location": "OPD-A",
+          "operator": "NURSE-03",
+          "timestamp": "2026-10-22T03:45:19.871567",
+          "scan_type": "qr"
+        }
+      ],
+      "injected_anomaly": "delayed"
+    },
+    {
+      "specimen_id": "S-2026-2029",
+      "patient_id": "P-56898",
+      "sample_type": "Urine",
+      "test_type": "Biopsy",
+      "collection_location": "OPD-B",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-2029",
+          "activity": "collection",
+          "location": "Ward-7",
+          "operator": "NURSE-09",
+          "timestamp": "2026-10-21T21:41:16.581982",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-2029",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "TECH-05",
+          "timestamp": "2026-10-21T21:44:07.841711",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-2029",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-01",
+          "timestamp": "2026-10-21T23:03:32.225059",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-2029",
+          "activity": "lab_reception",
+          "location": "OPD-A",
+          "operator": "NURSE-05",
+          "timestamp": "2026-10-21T23:06:32.225059",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-2029",
+          "activity": "processing",
+          "location": "OPD-A",
+          "operator": "TECH-03",
+          "timestamp": "2026-10-21T23:16:32.225059",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-9977",
+      "patient_id": "P-50001",
+      "sample_type": "Urine",
+      "test_type": "LFT",
+      "collection_location": "OPD-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-9977",
+          "activity": "collection",
+          "location": "OPD-B",
+          "operator": "NURSE-06",
+          "timestamp": "2026-10-21T22:27:16.754034",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9977",
+          "activity": "labeling",
+          "location": "OPD-B",
+          "operator": "TECH-05",
+          "timestamp": "2026-10-21T22:28:51.504766",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9977",
+          "activity": "dispatch",
+          "location": "ICU",
+          "operator": "TECH-05",
+          "timestamp": "2026-10-22T00:14:22.106405",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9977",
+          "activity": "lab_reception",
+          "location": "ICU",
+          "operator": "NURSE-06",
+          "timestamp": "2026-10-22T00:19:22.106405",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-9080",
+      "patient_id": "P-43386",
+      "sample_type": "Blood",
+      "test_type": "Biopsy",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-9080",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "TECH-03",
+          "timestamp": "2026-10-21T22:49:16.928226",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9080",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "TECH-02",
+          "timestamp": "2026-10-21T22:50:19.627497",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9080",
+          "activity": "dispatch",
+          "location": "OPD-A",
+          "operator": "NURSE-04",
+          "timestamp": "2026-10-21T23:12:49.627497",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9080",
+          "activity": "lab_reception",
+          "location": "OPD-B",
+          "operator": "NURSE-09",
+          "timestamp": "2026-10-21T23:18:49.627497",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9080",
+          "activity": "processing",
+          "location": "OPD-A",
+          "operator": "TECH-05",
+          "timestamp": "2026-10-21T23:20:49.627497",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9080",
+          "activity": "testing",
+          "location": "Emergency",
+          "operator": "NURSE-04",
+          "timestamp": "2026-10-21T23:35:55.092347",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9080",
+          "activity": "report_generated",
+          "location": "Ward-3",
+          "operator": "NURSE-07",
+          "timestamp": "2026-10-21T23:43:55.092347",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-8606",
+      "patient_id": "P-35144",
+      "sample_type": "Serum",
+      "test_type": "Biopsy",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-8606",
+          "activity": "collection",
+          "location": "Ward-7",
+          "operator": "NURSE-07",
+          "timestamp": "2026-10-21T20:49:17.101290",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-8606",
+          "activity": "labeling",
+          "location": "ICU",
+          "operator": "TECH-05",
+          "timestamp": "2026-10-21T20:53:27.513478",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-8606",
+          "activity": "dispatch",
+          "location": "ICU",
+          "operator": "TECH-02",
+          "timestamp": "2026-10-21T22:28:35.522198",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-8606",
+          "activity": "lab_reception",
+          "location": "Ward-7",
+          "operator": "TECH-01",
+          "timestamp": "2026-10-21T22:31:35.522198",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-8606",
+          "activity": "processing",
+          "location": "ICU",
+          "operator": "TECH-05",
+          "timestamp": "2026-10-21T22:41:35.522198",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-8606",
+          "activity": "testing",
+          "location": "ICU",
+          "operator": "TECH-04",
+          "timestamp": "2026-10-21T23:21:01.464974",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-8606",
+          "activity": "report_generated",
+          "location": "Ward-3",
+          "operator": "NURSE-05",
+          "timestamp": "2026-10-21T23:27:01.464974",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-4465",
+      "patient_id": "P-39444",
+      "sample_type": "Urine",
+      "test_type": "LFT",
+      "collection_location": "OPD-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-4465",
+          "activity": "collection",
+          "location": "OPD-A",
+          "operator": "TECH-01",
+          "timestamp": "2026-10-21T21:23:17.268803",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4465",
+          "activity": "labeling",
+          "location": "Ward-3",
+          "operator": "TECH-02",
+          "timestamp": "2026-10-21T21:24:55.337588",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4465",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "TECH-06",
+          "timestamp": "2026-10-21T22:48:36.728566",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4465",
+          "activity": "lab_reception",
+          "location": "Ward-7",
+          "operator": "NURSE-07",
+          "timestamp": "2026-10-21T22:57:36.728566",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-4465",
+          "activity": "processing",
+          "location": "Emergency",
+          "operator": "NURSE-06",
+          "timestamp": "2026-10-21T23:07:36.728566",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-7007",
+      "patient_id": "P-70901",
+      "sample_type": "Plasma",
+      "test_type": "Thyroid",
+      "collection_location": "Ward-3",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-7007",
+          "activity": "collection",
+          "location": "Ward-7",
+          "operator": "NURSE-07",
+          "timestamp": "2026-10-21T22:48:17.438567",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7007",
+          "activity": "labeling",
+          "location": "Ward-7",
+          "operator": "TECH-04",
+          "timestamp": "2026-10-21T22:49:17.438567",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7007",
+          "activity": "dispatch",
+          "location": "Ward-7",
+          "operator": "NURSE-01",
+          "timestamp": "2026-10-21T23:11:47.438567",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7007",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "NURSE-08",
+          "timestamp": "2026-10-21T23:14:47.438567",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7007",
+          "activity": "processing",
+          "location": "Ward-7",
+          "operator": "TECH-06",
+          "timestamp": "2026-10-21T23:18:47.438567",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7007",
+          "activity": "testing",
+          "location": "OPD-A",
+          "operator": "NURSE-08",
+          "timestamp": "2026-10-21T23:49:11.214803",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7007",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "NURSE-05",
+          "timestamp": "2026-10-21T23:52:11.214803",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-9302",
+      "patient_id": "P-80798",
+      "sample_type": "Blood",
+      "test_type": "LFT",
+      "collection_location": "OPD-B",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-9302",
+          "activity": "collection",
+          "location": "Ward-7",
+          "operator": "TECH-05",
+          "timestamp": "2026-10-21T21:13:17.605898",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9302",
+          "activity": "labeling",
+          "location": "OPD-B",
+          "operator": "TECH-07",
+          "timestamp": "2026-10-21T21:16:12.591441",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-9302",
+          "activity": "dispatch",
+          "location": "Emergency",
+          "operator": "NURSE-09",
+          "timestamp": "2026-10-21T21:38:42.591441",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-2026-7786",
+      "patient_id": "P-67125",
+      "sample_type": "Serum",
+      "test_type": "CBC",
+      "collection_location": "Emergency",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-7786",
+          "activity": "collection",
+          "location": "ICU",
+          "operator": "TECH-06",
+          "timestamp": "2026-10-21T22:12:17.772893",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7786",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "NURSE-02",
+          "timestamp": "2026-10-21T22:14:53.487987",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7786",
+          "activity": "dispatch",
+          "location": "Ward-3",
+          "operator": "NURSE-01",
+          "timestamp": "2026-10-21T23:10:22.799869",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7786",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "NURSE-01",
+          "timestamp": "2026-10-21T23:18:22.799869",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7786",
+          "activity": "processing",
+          "location": "ICU",
+          "operator": "TECH-04",
+          "timestamp": "2026-10-21T23:25:22.799869",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7786",
+          "activity": "testing",
+          "location": "Emergency",
+          "operator": "NURSE-08",
+          "timestamp": "2026-10-22T06:10:28.058717",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7786",
+          "activity": "report_generated",
+          "location": "OPD-B",
+          "operator": "NURSE-09",
+          "timestamp": "2026-10-22T00:19:28.058717",
+          "scan_type": "qr"
+        }
+      ],
+      "injected_anomaly": "stuck"
+    },
+    {
+      "specimen_id": "S-2026-7479",
+      "patient_id": "P-20735",
+      "sample_type": "Serum",
+      "test_type": "CBC",
+      "collection_location": "Ward-7",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-2026-7479",
+          "activity": "collection",
+          "location": "Emergency",
+          "operator": "NURSE-05",
+          "timestamp": "2026-10-21T21:23:18.001144",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7479",
+          "activity": "labeling",
+          "location": "Emergency",
+          "operator": "NURSE-01",
+          "timestamp": "2026-10-21T21:27:08.425152",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7479",
+          "activity": "dispatch",
+          "location": "OPD-A",
+          "operator": "TECH-05",
+          "timestamp": "2026-10-21T22:06:32.395862",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7479",
+          "activity": "lab_reception",
+          "location": "Emergency",
+          "operator": "NURSE-06",
+          "timestamp": "2026-10-21T22:10:32.395862",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7479",
+          "activity": "processing",
+          "location": "ICU",
+          "operator": "TECH-04",
+          "timestamp": "2026-10-21T22:12:32.395862",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7479",
+          "activity": "testing",
+          "location": "ICU",
+          "operator": "TECH-04",
+          "timestamp": "2026-10-21T22:34:49.413889",
+          "scan_type": "qr"
+        },
+        {
+          "specimen_id": "S-2026-7479",
+          "activity": "report_generated",
+          "location": "Emergency",
+          "operator": "NURSE-09",
+          "timestamp": "2026-10-21T22:40:49.413889",
+          "scan_type": "qr"
+        }
+      ]
+    },
+    {
+      "specimen_id": "S-REAL-901",
+      "patient_id": "P-46421",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "ICU-A",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-901",
+          "activity": "collection",
+          "location": "ICU-A",
+          "operator": "NURSE-ALPHA",
+          "timestamp": "2026-10-21T09:00:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-901",
+          "activity": "labeling",
+          "location": "ICU-A",
+          "operator": "NURSE-ALPHA",
+          "timestamp": "2026-10-21T09:02:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-901",
+          "activity": "dispatch",
+          "location": "ICU-A",
+          "operator": "CARRIER-1",
+          "timestamp": "2026-10-21T09:30:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-901",
+          "activity": "lab_reception",
+          "location": "CENTRAL-LAB",
+          "operator": "TECH-X",
+          "timestamp": "2026-10-21T10:15:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    },
+    {
+      "specimen_id": "S-REAL-902",
+      "patient_id": "P-30379",
+      "sample_type": "Blood",
+      "test_type": "Imported",
+      "collection_location": "OPD-1",
+      "priority": "routine",
+      "events": [
+        {
+          "specimen_id": "S-REAL-902",
+          "activity": "collection",
+          "location": "OPD-1",
+          "operator": "NURSE-BETA",
+          "timestamp": "2026-10-21T08:00:00",
+          "scan_type": "csv_import"
+        },
+        {
+          "specimen_id": "S-REAL-902",
+          "activity": "labeling",
+          "location": "OPD-1",
+          "operator": "NURSE-BETA",
+          "timestamp": "2026-10-21T08:03:00",
+          "scan_type": "csv_import"
+        }
+      ],
+      "injected_anomaly": null
+    }
+  ]
+}
