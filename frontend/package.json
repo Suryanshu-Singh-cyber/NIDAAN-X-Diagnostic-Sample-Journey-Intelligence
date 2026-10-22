@@ -4,11 +4,10 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "vercel-build": "npm ci && npm run build",
-  "preview": "vite preview"
-}
+    "dev": "vite",
+    "build": "npx vite build",
+    "vercel-build": "npm ci && npm run build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "@types/three": "^0.186.0",
